@@ -1,0 +1,8 @@
+Production branch: main
+Development branch: develop
+Feature prefix: feature/
+Release prefix: release/
+Hotfix prefix: hotfix/
+Support prefix: support/
+Tag prefix: (empty or v)
+Bugfix prefix: bugfix/
